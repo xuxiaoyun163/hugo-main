@@ -1,7 +1,8 @@
 +++
 date = '2024-10-20T15:51:04+08:00'
-draft = true
+draft = false
 title = '深基1'
+categorys=["深基"]
 +++
 
 ## 【深基1.例2】简单的分苹果
